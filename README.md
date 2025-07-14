@@ -1,4 +1,5 @@
 # RailSathiBE
+<<<<<<< HEAD
 
 ## 🚀 Setup Instructions
 
@@ -37,3 +38,6 @@
 - `GET /items/` - List items
 - `POST /items/` - Create item
 - ... (add more as needed)
+=======
+RailSathiBE: A Dockerized Django REST API project featuring a PostgreSQL database, Swagger/Redoc API documentation, and a sample items app. Designed for easy setup and development.
+>>>>>>> b4d875b348cf26f6cb20ecfd1993e4e3442e177b
