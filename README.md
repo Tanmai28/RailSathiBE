@@ -1,5 +1,4 @@
 # RailSathiBE
-<<<<<<< HEAD
 
 ## 🚀 Setup Instructions
 
